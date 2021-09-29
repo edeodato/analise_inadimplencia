@@ -1,4 +1,4 @@
-# Análise de inadimplência.
+# Análise de inadimplência
 
 Este projeto é referente a uma base de dados de um banco onde faço uma análise dos clientes buscando identificar padrões no comportamento de clientes inadimplentes.
 
